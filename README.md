@@ -7,9 +7,9 @@
 #B = (−∞, 30), C = [30, ∞). 
 
 #Ustawienie parametrów
-#n <- 100       # liczba prób
-#p <- 1/4      # prawdopodobieństwo sukcesu
-#lambda <- 25  # parametr Poissona
+#n <- 100      liczba prób
+#p <- 1/4      prawdopodobieństwo sukcesu
+#lambda <- 25  parametr Poissona
 
 #1. Obliczenie prawdopodobieństwa P(X = 25)
 #P_X_25 <- dbinom(25, n, p)
